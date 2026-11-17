@@ -1,5 +1,4 @@
-# UFOrphan
-## Aliens Stole My Parents
+# UFOrphan: Aliens Stole My Parents
 ### A Complete Science-Fiction Adventure Game, Interactive World Simulation & Narrative Development Platform
 
 <p align="center">
