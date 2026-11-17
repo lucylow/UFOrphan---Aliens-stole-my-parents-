@@ -7,6 +7,8 @@
 
 A richly interconnected science-fiction adventure featuring exploration, combat, crafting, procedural encounters, companion relationships, alien civilizations, branching narratives, and an integrated in-game software suite.
 
+![](https://github.com/lucylow/UFOrphan---Aliens-stole-my-parents-/blob/main/UFOrphan_%20Neon%20Cosmic%20Rescue.png?raw=true)
+
 </p>
 
 <p align="center">
