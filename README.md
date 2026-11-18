@@ -9,6 +9,8 @@ A richly interconnected science-fiction adventure featuring exploration, combat,
 
 ![](https://github.com/lucylow/UFOrphan---Aliens-stole-my-parents-/blob/main/UFOrphan_%20Neon%20Cosmic%20Rescue.png?raw=true)
 
+![](https://github.com/lucylow/UFOrphan---Aliens-stole-my-parents-/blob/main/Screenshot%20(2012).png?raw=true)
+
 </p>
 
 <p align="center">
